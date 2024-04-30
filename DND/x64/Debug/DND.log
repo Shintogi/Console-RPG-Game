@@ -1,0 +1,3 @@
+﻿  DND_GameDFcpp.cpp
+C:\Users\overl\OneDrive\Desktop\GradeBook\DND\DND\DND_GameDFcpp.cpp(121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DND.vcxproj -> C:\Users\overl\OneDrive\Desktop\GradeBook\DND\x64\Debug\DND.exe
